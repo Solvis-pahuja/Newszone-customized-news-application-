@@ -1,0 +1,1 @@
+ C:\\Users\\Asus\\StudioProjects\\newszonecollege\\.dart_tool\\flutter_build\\471b46e43a16c4ec04d9bbe8883835b0\\native_assets.yaml: 

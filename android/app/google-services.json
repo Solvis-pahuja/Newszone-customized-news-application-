@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45826552449",
+    "project_id": "newszone-663a4",
+    "storage_bucket": "newszone-663a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45826552449:android:829dd90ded8fc910475380",
+        "android_client_info": {
+          "package_name": "com.example.newszonecollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dLi2mvZ6L83BiB6Hz0Tmrgfyh-n06YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.storage.firebase_storage-core-1.6.0-0 C:\Users\Asus\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-1.0.0-beta04-1 C:\Users\Asus\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-window-java-1.0.0-beta04-2 C:\Users\Asus\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-firebase-common-20.4.2-3 C:\Users\Asus\.gradle\caches\transforms-3\7939fac8dea23a6b47f7cc105b6f6f9a\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-base-18.1.0-4 C:\Users\Asus\.gradle\caches\transforms-3\8a23a50f046a72ab321e149cef61a980\transformed\jetified-play-services-base-18.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-annotation-experimental-1.1.0-5 C:\Users\Asus\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-jetified-play-services-basement-18.3.0-6 C:\Users\Asus\.gradle\caches\transforms-3\e76aed36a087f5f71489bfa0e357771e\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.storage.firebase_storage-main-7 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.10\android\src\main\res
+io.flutter.plugins.firebase.storage.firebase_storage-release-8 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_storage-11.6.10\android\src\release\res
+io.flutter.plugins.firebase.storage.firebase_storage-packaged_res-9 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.storage.firebase_storage-pngs-10 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\generated\res\pngs\release
+io.flutter.plugins.firebase.storage.firebase_storage-resValues-11 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\generated\res\resValues\release
+io.flutter.plugins.firebase.storage.firebase_storage-rs-12 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\generated\res\rs\release
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-13 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.storage.firebase_storage-mergeReleaseResources-14 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.storage.firebase_storage-merged_res-15 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\firebase_storage\intermediates\merged_res\release

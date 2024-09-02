@@ -1,0 +1,13 @@
+io.flutter.plugins.webviewflutter.webview_flutter_android-core-1.6.0-0 C:\Users\Asus\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-1.0.0-beta04-1 C:\Users\Asus\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-java-1.0.0-beta04-2 C:\Users\Asus\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-annotation-experimental-1.1.0-3 C:\Users\Asus\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-webkit-1.5.0-4 C:\Users\Asus\.gradle\caches\transforms-3\d5509b85028d944ce274aed7eaf91254\transformed\webkit-1.5.0\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-main-5 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-2.10.4\android\src\main\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-release-6 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-2.10.4\android\src\release\res
+io.flutter.plugins.webviewflutter.webview_flutter_android-pngs-7 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\generated\res\pngs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-resValues-8 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\generated\res\resValues\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-rs-9 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\generated\res\rs\release
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-10 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-11 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-merged_res-12 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\webview_flutter_android\intermediates\merged_res\release

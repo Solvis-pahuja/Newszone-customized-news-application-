@@ -1,0 +1,12 @@
+io.github.ponnamkarthik.toast.fluttertoast-core-1.6.0-0 C:\Users\Asus\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-1.0.0-beta04-1 C:\Users\Asus\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-window-java-1.0.0-beta04-2 C:\Users\Asus\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+io.github.ponnamkarthik.toast.fluttertoast-jetified-annotation-experimental-1.1.0-3 C:\Users\Asus\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+io.github.ponnamkarthik.toast.fluttertoast-main-4 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\main\res
+io.github.ponnamkarthik.toast.fluttertoast-release-5 C:\Users\Asus\AppData\Local\Pub\Cache\hosted\pub.dev\fluttertoast-8.2.4\android\src\release\res
+io.github.ponnamkarthik.toast.fluttertoast-pngs-6 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\generated\res\pngs\release
+io.github.ponnamkarthik.toast.fluttertoast-resValues-7 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\generated\res\resValues\release
+io.github.ponnamkarthik.toast.fluttertoast-rs-8 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\generated\res\rs\release
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-9 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.github.ponnamkarthik.toast.fluttertoast-mergeReleaseResources-10 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.github.ponnamkarthik.toast.fluttertoast-merged_res-11 C:\Users\Asus\StudioProjects\Github uploads\NewsZone\build\fluttertoast\intermediates\merged_res\release
