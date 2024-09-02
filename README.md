@@ -25,7 +25,7 @@ Certainly! Here’s a sample README file for a news application called "NewsZone
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/newszone-app.git
+   git clone https://github.com/yourusername/Newszone-customized-news-application-.git
    ```
 
 2. **Navigate to the project directory:**
