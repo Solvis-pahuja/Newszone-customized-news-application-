@@ -13,11 +13,6 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/solvis-pahuja/Newszone-customized-news-application.git
-Navigate to the Project Directory
-
-bash
-Copy code
 cd newszone
 Install Dependencies
 
